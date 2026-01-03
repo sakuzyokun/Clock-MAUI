@@ -33,7 +33,7 @@
 Windows 11 で Clock を起動した様子 (v1.0.0)  
 ![screenshot](https://github.com/sakuzyokun/Clock-MAUI/blob/main/Clock_b1.png?raw=true)  
 Android 16 で Clock を起動した様子 (v1.0.0)  
-![screenshot](https://github.com/sakuzyokun/Clock-MAUI/blob/main/Clock_Android.png?raw=true)  
+<img src="https://github.com/sakuzyokun/Clock-MAUI/blob/main/Clock_Android.png?raw=true" alt="Android 16 で Clockアプリを実行した画像" width="25%">  
 
 ---
 
