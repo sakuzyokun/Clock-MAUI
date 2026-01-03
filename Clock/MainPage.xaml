@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Clock.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25" Margin="0,0,0,0">
+
+            <Label
+                Text="Time is" 
+                FontSize="32" />
+
+            <Label
+                Text="12Hour"
+                FontSize="16" />
+            
+            <Switch Toggled="Switch_Toggled"></Switch>
+
+            <Label
+                Text="HH:MM:SS.ms"
+                x:Name="TimeLabel"
+                HorizontalOptions="Center"
+                FontSize="94" />
+
+            <Label
+                Text="Date is"
+                FontSize="32" />
+
+            <Label
+                Text="YYYY/MM/DD"
+                x:Name="DateLabel"
+                HorizontalOptions="Center"
+                FontSize="94" />
+
+            <Label
+                Text="YYYY/MM/DD HH:MM:SS"
+                x:Name="AllLabel"
+                FontSize="24" />
+
+            <Label
+                Text="End of day"
+                x:Name="TodayprogressLabel"
+                FontSize="18" />
+            
+
+            <Label
+                Text="UTC Time"
+                x:Name="UtcLabel"
+                FontSize="14" />
+
+            <Label
+                Text="Timezone"
+                x:Name="TimezoneLabel"
+                FontSize="14" />
+
+            <Label
+                Text="Unix"
+                x:Name="UnixLabel"
+                FontSize="14" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+    <!--<Grid
+    WidthRequest="300"
+    HeightRequest="300"
+    HorizontalOptions="Center"
+    VerticalOptions="Center">
+
+        <!- 秒針 ->
+        <BoxView
+        x:Name="SecondHand"
+        WidthRequest="2"
+        HeightRequest="140"
+        Color="Red"
+        VerticalOptions="Center"
+        HorizontalOptions="Center"
+        AnchorY="1"/>
+
+        <!- 分針 ->
+        <BoxView
+        x:Name="MinuteHand"
+        WidthRequest="4"
+        HeightRequest="120"
+        Color="Black"
+        VerticalOptions="Center"
+        HorizontalOptions="Center"
+        AnchorY="1"/>
+
+        <!- 時針 ->
+        <BoxView
+        x:Name="HourHand"
+        WidthRequest="6"
+        HeightRequest="90"
+        Color="Black"
+        VerticalOptions="Center"
+        HorizontalOptions="Center"
+        AnchorY="1"/>
+    </Grid>-->
+</ContentPage>
