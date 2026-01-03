@@ -47,7 +47,7 @@ Android 16 で Clock を起動した様子 (v1.0.0)
 ## 📜 ライセンス・改造について
 
 Clockは自由に**改造・再配布**してOKです！  
-ただし、以下の一文を**`README.md`やソースコードの先頭コメント**に明記してください：
+ただし、以下の一文を`README.md`やソースコードの先頭コメント**に明記してください：
 
 ```c
 // Clock-MAUI was created by sakuzyokun
@@ -70,4 +70,4 @@ Clockは自由に**改造・再配布**してOKです！
 
 ---
 
-© sakuzyokun - 2025
+© Sakuzyo-kun - 2026
