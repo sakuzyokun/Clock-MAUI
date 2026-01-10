@@ -1,5 +1,6 @@
 # ⏰ Clock
 
+![Android](https://img.shields.io/badge/Android-5%20~%2016-green)
 ![Windows](https://img.shields.io/badge/Windows-10%20~%2011-blue)  
 ⏰ **シンプル時計アプリ** for Windows 10 / 11 / Android  
 🌱 **メモリ使用量 90〜100MB / CPU数％で動作！**  
