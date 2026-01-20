@@ -1,6 +1,6 @@
 # ⏰ Clock
 
-[![Android](https://img.shields.io/badge/BOOTH-Download-red)](https://sakuzyokun.booth.pm/items/7890267)  
+[![BOOTH](https://img.shields.io/badge/BOOTH-Download-red)](https://sakuzyokun.booth.pm/items/7890267)  
 
 ![Android](https://img.shields.io/badge/Android-5%20~%2016-green)
 ![Windows](https://img.shields.io/badge/Windows-10%20~%2011-blue)  
